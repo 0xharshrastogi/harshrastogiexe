@@ -38,7 +38,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-/*<a href="https://www.about.me/harsh.rastogi/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>*/
+<a href="https://www.about.me/harsh.rastogi/"><img alt="Website" src="https://img.shields.io/badge/Website-about.me/harsh.rastogi-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/harsh-rastogi-0970b61a1/"><img alt="https://www.linkedin.com/in/harsh-rastogi-0970b61a1/LinkedIn" src="https://img.shields.io/badge/LinkedIn-Harsh%20Rastogi-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/thisismadhur_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-thisismadhur_-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:rastogiharsh04@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rastogiharsh04@gmail.com-blue?style=flat-square&logo=gmail"></a>
