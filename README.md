@@ -70,6 +70,9 @@ Top Languages
 ![Top](https://github-readme-stats.vercel.app/api?username=theharshrastogi&theme=dracula)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theharshrastogi&layout=compact&theme=dracula&card_width=400  )](https://github.com/theharshrastogi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theharshrastogi&layout=compact&theme=dracula&card_width=500  )](https://github.com/theharshrastogi/github-readme-stats)
+
+[![theharshrastogi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theharshrastogi&custom_title=CodingStats&theme=dracula)](https://github.com/theharshrastogi/github-readme-stats)
+
 
 
