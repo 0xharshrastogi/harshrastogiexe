@@ -1,6 +1,6 @@
 <h1> Hello there! 👋 I'm Harsh. <img src="https://media.giphy.com/media/RN811M4Ofehx9Zv1Ia/giphy.gif" alt="Meaow" width="70" /> </h1>
 
-<img src="https://media.giphy.com/media/3ohc10GA6j4XrLWzZK/giphy.gif" width="500">
+<img src="https://media.giphy.com/media/3ohc10GA6j4XrLWzZK/giphy.gif" width="100%">
 
 <h2> 👨🏻‍ &nbsp;About Me </h2>
 <br />
@@ -26,7 +26,7 @@
 ----
  
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h2> 🛠 &nbsp;Tech Stack</h2>
 
 - 🌐 &nbsp;
   ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -52,17 +52,24 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h2> 🤝🏻 &nbsp;Connect with Me </h2>
 
-<p align="center">
-<a href="https://www.about.me/harsh.rastogi/"><img alt="Website" src="https://img.shields.io/badge/Website-about.me/harsh.rastogi-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/harsh-rastogi-0970b61a1/"><img alt="https://www.linkedin.com/in/harsh-rastogi-0970b61a1/LinkedIn" src="https://img.shields.io/badge/LinkedIn-Harsh%20Rastogi-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/thisismadhur_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-thisismadhur_-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:rastogiharsh04@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rastogiharsh04@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/harsh-rastogi-0970b61a1/"><img alt="https://www.linkedin.com/in/harsh-rastogi-0970b61a1/LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/thisismadhur_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:rastogiharsh04@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://twitter.com/theharshrastogi">
+  <img src="	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
 </p>
 
 Top Languages
 <br /> 
-![Top](https://github-readme-stats.vercel.app/api?username=theharshrastogi&theme=blue-green)
 
-![language](https://github-readme-stats.vercel.app/api/top-langs/?username=theharshrastogi&theme=blue-green)
+![Top](https://github-readme-stats.vercel.app/api?username=theharshrastogi&theme=dracula)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theharshrastogi&layout=compact&theme=dracula&card_width=400  )](https://github.com/theharshrastogi/github-readme-stats)
+
+
