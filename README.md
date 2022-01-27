@@ -1,6 +1,6 @@
 <h1> Hello there! 👋 I'm Harsh. <img src="https://media.giphy.com/media/RN811M4Ofehx9Zv1Ia/giphy.gif" alt="Meaow" width="70" /> </h1>
 
-<img src="https://media.giphy.com/media/3ohc10GA6j4XrLWzZK/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif" width="100%">
 
 <h2> 👨🏻‍ &nbsp;About Me </h2>
 <br />
