@@ -6,7 +6,7 @@
 
 <h1> Hello👋 <span style="font-weight: 800;">I'm Harsh.</span><img src="https://media4.giphy.com/media/W0VuY0dTxH9L6vLUJ2/200.gif?cid=ecf05e47y2gp90800kgkqpbhfo0k9t5snwi1v3azgyc9kmea&rid=200.gif&ct=s" alt="Meaow" width="40" />and I  ❤️ love cats</h1>
 
-<img height="700" style="border-radius: 1rem;" src="https://camo.githubusercontent.com/8847cc086ad4e08b4d52c0588b0e641fc8364c2fde6a09cdf8144ae75a537e0f/68747470733a2f2f6769646967692e636f6d2f63646e2f6c6f76652e676966" width="100%">
+<img height="400" style="border-radius: 1rem;" src="https://camo.githubusercontent.com/8847cc086ad4e08b4d52c0588b0e641fc8364c2fde6a09cdf8144ae75a537e0f/68747470733a2f2f6769646967692e636f6d2f63646e2f6c6f76652e676966" width="100%">
 
 <h2 style="font-size: 2rem; font-weight: 800; margin-top: 2rem">👨🏻‍ About Me</h2>
 <br />
