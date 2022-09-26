@@ -79,10 +79,10 @@ I love to build MERN stack applications using the latest <strong>Redux Toolkit(R
 
 <br />
 
-![Top](https://github-readme-stats.vercel.app/api?username=theharshrastogi&theme=dracula)
+![Top](https://github-readme-stats.vercel.app/api?username=harshrastogiexe&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theharshrastogi&layout=compact&theme=dracula&card_width=500)](https://github.com/theharshrastogi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshrastogiexe&layout=compact&theme=dracula&card_width=500)](https://github.com/harshrastogiexe/github-readme-stats)
 
-[![theharshrastogi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theharshrastogi&custom_title=CodingStats&theme=dracula)](https://github.com/theharshrastogi/github-readme-stats)
+[![harshrastogiexe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=harshrastogiexe&custom_title=CodingStats&theme=dracula)](https://github.com/harshrastogiexe/github-readme-stats)
 
-<img style="border-radius: 0.5rem;" src="https://activity-graph.herokuapp.com/graph?username=theharshrastogi&theme=dracula" />
+<img style="border-radius: 0.5rem;" src="https://activity-graph.herokuapp.com/graph?username=harshrastogiexe&theme=dracula" />
