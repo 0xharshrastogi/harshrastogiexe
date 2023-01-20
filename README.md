@@ -30,8 +30,8 @@ Choosing `science (with computers)` in school and `computer science and engineer
 ## Stats for nerds:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshrastogiexe&theme=transparent&layout=compact&langs_count=16" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=theharshrastogi&theme=transparent&layout=compact">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshrastogiexe&theme=transparent&layout=compact&langs_count=16" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=theharshrastogi&theme=transparent&layout=compact">
 </p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshrastogiexe&theme=transparent&show_icons=true&text_color=D93A7C" />
