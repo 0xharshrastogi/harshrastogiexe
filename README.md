@@ -29,6 +29,12 @@ Choosing `science (with computers)` in school and `computer science and engineer
 
 ## Stats for nerds:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshrastogiexe&theme=transparent&layout=compact&langs_count=16)](https://github.com/harshrastogiexe/)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theharshrastogi&theme=transparent&layout=compact)](https://github.com/harshrastogiexe)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshrastogiexe&theme=transparent&layout=compact&langs_count=16" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=theharshrastogi&theme=transparent&layout=compact">
+</p>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshrastogiexe&theme=transparent&layout=compact&langs_count=16)](https://github.com/harshrastogiexe/)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theharshrastogi&theme=transparent&layout=compact)](https://github.com/harshrastogiexe) -->
+
 ![Top](https://github-readme-stats.vercel.app/api?username=harshrastogiexe&theme=transparent&show_icons=true&text_color=D93A7C) <img height="200" src="https://camo.githubusercontent.com/8847cc086ad4e08b4d52c0588b0e641fc8364c2fde6a09cdf8144ae75a537e0f/68747470733a2f2f6769646967692e636f6d2f63646e2f6c6f76652e676966">
